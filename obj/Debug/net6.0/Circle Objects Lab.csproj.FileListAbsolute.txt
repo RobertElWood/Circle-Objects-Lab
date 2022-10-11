@@ -1,0 +1,15 @@
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\bin\Debug\net6.0\Circle Objects Lab.exe
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\bin\Debug\net6.0\Circle Objects Lab.deps.json
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\bin\Debug\net6.0\Circle Objects Lab.runtimeconfig.json
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\bin\Debug\net6.0\Circle Objects Lab.dll
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\bin\Debug\net6.0\Circle Objects Lab.pdb
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\Circle Objects Lab.csproj.AssemblyReference.cache
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\Circle Objects Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\Circle Objects Lab.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\Circle Objects Lab.AssemblyInfo.cs
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\Circle Objects Lab.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\Circle Objects Lab.dll
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\refint\Circle Objects Lab.dll
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\Circle Objects Lab.pdb
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\Circle Objects Lab.genruntimeconfig.cache
+C:\Users\rober\Documents\C# Class\Circle Objects Lab\obj\Debug\net6.0\ref\Circle Objects Lab.dll
